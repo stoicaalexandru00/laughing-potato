@@ -1,0 +1,3 @@
+
+git add <filename>                      adauga file in repozitorie
+git --cached <filename>                 sterge digitn repozitorie
